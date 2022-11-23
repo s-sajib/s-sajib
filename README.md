@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/cyberOwl"><img src="https://api.daily.dev/devcards/ae6c01249f4641758848391cc76284d9.png?r=fle" width="400" alt="Shohidujjaman Sajib's Dev Card"/></a>
-
 - 👋 Hi, I’m Shohidujjaman Sajib
 - 👀 I’m interested in Machine Learning, Bio-Signal Processing, Image Processing and Rehabilitation Engeneering.
 - 🌱 I’m currently doing Enterprise ERP solutions Professionally and Machine Learning projects for Healthcare out of passion.
