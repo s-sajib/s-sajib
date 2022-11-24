@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shohidujjaman Sajib
-- 👀 I’m interested in Machine Learning, Bio-Signal Processing, Image Processing and Rehabilitation Engeneering.
+- 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I’m currently doing Enterprise ERP solutions Professionally and Machine Learning projects for Healthcare out of passion.
 - 💞️ I’m looking to collaborate on Machine Learning and BioMedical Projects.
 - 📫 How to reach me? Simply mail at: sajib1615018@stud.kuet.ac.bd
