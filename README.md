@@ -5,10 +5,7 @@
 - 📫 How to reach me? Simply mail at: sajibwebdev@gmail.com
 
 ### Numbers
-[//]: # ![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=sajib-bme-kuet&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![](https://raw.githubusercontent.com/sajib-bme-kuet/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sajib-bme-kuet/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=sajib-bme-kuet&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Sajib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajib-bme-kuet&theme=dark&hide_border=true)
 
