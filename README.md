@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shohidujjaman Sajib
 - 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I’m currently doing Web Application development with React.Js
-- 💞️ I’m looking to collaborate on Machine Learning and BioMedical Projects.
+- 💞️ I’m looking to collaborate on Cool Web Application and SaaS Projects.
 - 📫 How to reach me? Simply mail at: sajibwebdev@gmail.com
 
 ### Numbers
