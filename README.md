@@ -4,7 +4,16 @@
 - 💞️ I’m looking to collaborate on Cool Web Application and SaaS Projects.
 - 📫 How to reach me? Simply mail at: sajibwebdev@gmail.com
 
-### Numbers
+
+### 2024 Goals 🎯:
+- [ ] Learn Markdown and Mermaid Really well.
+- [ ] Learn Next.js
+- [ ] Learn TypeScript
+- [ ] Make at least 10 open source contribution
+- [ ] Start a SaaS Business
+- [ ] Get into DU IBA's MBA Program
+
+### My Stats
 ![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=s-sajib&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Sajib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-sajib&theme=dark&hide_border=true)
