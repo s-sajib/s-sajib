@@ -11,7 +11,6 @@
 - [ ] Learn TypeScript
 - [ ] Make at least 10 open source contribution
 - [ ] Start a SaaS Business
-- [ ] Get into DU IBA's MBA Program
 
 ### My Stats
 ![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=s-sajib&theme=dark&show_icons=true&hide_border=true&count_private=true)
