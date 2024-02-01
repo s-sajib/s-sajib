@@ -6,7 +6,7 @@
 
 
 ### 2024 Goals 🎯:
-- [ ] Learn Markdown and Mermaid Really well.
+- [x] Learn Markdown and Mermaid.
 - [ ] Learn Next.js
 - [ ] Learn TypeScript
 - [ ] Make at least 10 open source contribution
