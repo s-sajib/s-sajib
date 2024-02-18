@@ -5,13 +5,6 @@
 - 📫 How to reach me? Simply mail at: sajibwebdev@gmail.com
 
 
-### 2024 Goals 🎯:
-- [x] Learn Markdown and Mermaid.
-- [ ] Learn Next.js
-- [ ] Learn TypeScript
-- [ ] Make at least 10 open source contribution
-- [ ] Start a SaaS Business
-
 ### My Stats
 ![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=s-sajib&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
