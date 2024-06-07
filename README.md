@@ -15,7 +15,7 @@
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sajib/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://twitter.com/sajib975)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sajib.w3b.d3v)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-sajib&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 <!---
 s-sajib/s-sajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
