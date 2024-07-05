@@ -5,9 +5,6 @@
 - 📫 How to reach me? Simply mail at: sajibwebdev@gmail.com
 
 
-### My Stats
-![Sajib's Stats](https://github-readme-stats.vercel.app/api?username=s-sajib&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
 ![Sajib's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-sajib&theme=dark&hide_border=true)
 
 ![Sajib's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-sajib&theme=dark&show_icons=true&hide_border=true&layout=compact)
